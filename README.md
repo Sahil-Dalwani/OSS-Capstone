@@ -1,4 +1,4 @@
-#Capstone Project Containing Shell Scripts for the Open Source Software Audit of Python
+##Capstone Project Containing Shell Scripts for the Open Source Software Audit of Python
 #Open Source Software Audit
 
 Student Name: Sahil Dalwani
